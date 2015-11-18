@@ -7,9 +7,9 @@
 +
 +
 +### geordnete Liste
-1. Zeile 1
-2. Zeile 2
-3. Zeile 3
++1. Zeile 1
++2. Zeile 2
++3. Zeile 3
 +
 +*Dieser Satz ist kursiv*
 +
