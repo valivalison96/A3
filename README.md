@@ -1,19 +1,14 @@
-\markdown
-+# A3
-+
-+### Tabelle
-+Spalte 1 | Spalte 2 | Spalte 3
-+:--- | :---: | ---:
-+links | zentriert | rechts
-+
-+
-+### geordnete Liste
-+1. Zeile 1
-+2. Zeile 2
-+3. Zeile 3
-+
-+*Dieser Satz ist kursiv*
-+
-+**Dieser Satz ist fett**
-+
-+**_Dieser Satz ist FETT und KURSIV_**
+#Aufgabe 3
+
+1. Das ist einene liste
+- Die mehrere Inhalte hat
+- und nummeriert ist
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| 1234556789    | 1234456778912 | 12345 |
+| 12345678      | 12334567      |   123 |
+| 1234567890123 | 1234567899    |    11 |
+
+*Das ist Kursiv*
+**Das ist Fett**
