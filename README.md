@@ -1,14 +1,14 @@
 #Aufgabe 3
 
-1. Das ist einene liste
-- Die mehrere Inhalte hat
-- und nummeriert ist
+1. Meine Liste hat
+- mehrere Inhalte
+- und ist nummeriert
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
-| 1234556789    | 1234456778912 | 12345 |
+| paul      | emma | lukas |
 | 12345678      | 12334567      |   123 |
-| 1234567890123 | 1234567899    |    11 |
+| baum | eichhörnchen    |    tiger |
 
 *Das ist Kursiv*
 **Das ist Fett**
